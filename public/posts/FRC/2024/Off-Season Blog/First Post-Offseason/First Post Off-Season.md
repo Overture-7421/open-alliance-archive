@@ -1,0 +1,29 @@
+# First Post Off-Season
+
+## Team Mexico Selection Tournament
+
+Two weeks ago we participated in a tournament to select the team that will be representing Mexico in FIRST Global Challenge. We ended up placing 5th on the rankings. It was the first time participating in this selection tournament, so we ended up having a couple of issues as we also did not have enough experience building FTC style robots. 
+
+Although we were eliminated the team learned a lot about how FTC robots work and also discovered areas of technical growth and how to work as a team.
+
+We would also like to congratulate 4400 Cerbotics for being the team selected to represent Mexico at FIRST Globals this year.
+
+## Off-Season Competitions
+
+We are excited to announce that we will be attending the AllStar Alliance Invitational with our friends from 4635 Botbusters and 3478 Lambot. The team will also be attending the Mexico All-Star event and we are also expecting to attend The Remix again this year.
+
+## What about our off-season robot?
+
+Because of time and resources constraints we have decided we are not building a new robot for the semester. Instead we will be training our new members with this year robot and we will be working on making some of the fixes mentioned on the last post. 
+
+The team will also start working creating training resources for the new members as for most of the existence of the team we did not have a proper learning structure. We are hoping to post our training resources once they are completed over the next couple of weeks.
+
+## What else we will be working on?
+
+Some other projects:
+
+- More FTC training, making sure all of our students are able to participate in FTC and FRC.
+- Scouting Apps (Post on that coming later)
+- Robot automation
+- Updating our codebase and library (Overturelib)
+- Workshop remodeling?
