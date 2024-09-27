@@ -18,58 +18,37 @@
 -   [January 28](January/January-28.md)
 -   [January 30](January/January-30.md)
 
-## Week 4
+## February
 
--   [Thursday](Week%204/Thursday/Thursday.md)
--   [Friday](Week%204/Friday/Friday.md)
+-   [February 1](February/February-1.md)
+-   [February 2](February/February-2.md)
+-   [February 5](February/February-5.md)
+-   [February 7](February/February-7.md)
+-   [February 9](February/February-9.md)
+-   [February 10](February/February-10.md)
+-   [February 13](February/February-13.md)
+-   [February 15](February/February-14.md)
+-   [February 17](February/February-17.md)
+-   [February 19](February/February-19.md)
+-   [February 25](February/February-25.md)
+-   [February 27](February/February-27.md)
 
-## Week 5
+## March
 
--   [Monday](Week%205/Monday/Monday.md)
--   [Wednesday Small Update](Week%205/Wednesday/Wednesday%20Small%20Update.md)
--   [Friday](Week%205/Friday/Friday.md)
--   [Saturday](Week%205/Saturday.md)
+-   [March 4](March/March-4.md)
+-   [March 18](March/March-18.md)
+-   [March 22](March/March-22.md)
+-   [March 25](March/March-25.md)
+-   [March 28](March/March-28.md)
 
-## Week 6
+## April
 
--   [Tuesday](Week%206/Tuesday.md)
--   [Thursday](Week%206/Thursday.md)
--   [Saturday](Week%206/Saturday/Saturday.md)
+-   [April 2](April/April-2.md)
+-   [April 15](April/April-15.md)
 
-## Week 7
+## May
 
--   [Monday Update](Week%207/Monday/Monday.md)
--   [Sunday Update](Week%207/Sunday.md)
-
-## Competition Week 1
-
--   [6 Note Auto](Competition%20Week%201/6%20Note%20Auto.md)
--   [Regional De Monrerrey](Competition%20Week%201/Regional%20De%20Monterrey/Regional%20de%20Monterrey.md)
-
-## Competition Week 3
-
--   [Heartland Regional](Competition%20Week%203/Heartland%20Regional.md)
-
-## Competition Week 4
-
--   [Friday Update](Competition%20Week%204/Friday.md)
-
-## Competition Week 5
-
--   [Monday](Competition%20Week%205/Monday/Monday.md)
--   [Thursday](Competition%20Week%205/Thursday/Thursday.md)
-
-## Competition Week 6
-
--   [Tuesday](Competition%20Week%206/Tuesday.md)
-
-## Pre-Champs
-
--   [Pre-Champs Update](Pre-Champs/Pre-Champs.md)
-
-## Championship Recap
-
--   [Championship Recap](Championship%20Recap/Championship%20Recap.md)
+-   [May 15](May/May-15.md)
 
 ## Off-Season Blog
 
