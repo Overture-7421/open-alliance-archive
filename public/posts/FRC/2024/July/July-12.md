@@ -10,11 +10,11 @@ We forgot to post the link to the [CAD updates](https://cad.onshape.com/document
 -   The new plates for the encoder and the SplineXL have also been installed on the robot, along with the bearings for the spline to rotate on.
 -   Changed shooter motors from Falcons to Krakens.
 
-![WhatsApp Image 2024-07-12 at 12.23.06 (2).jpeg](<WhatsApp_Image_2024-07-12_at_12.23.06_(2).jpeg>)
+![WhatsApp Image 2024-07-12 at 12.23.06 (2).jpeg](<July-12/WhatsApp_Image_2024-07-12_at_12.23.06_(2).jpeg>)
 
-![WhatsApp Image 2024-07-12 at 12.23.06 (1).jpeg](<WhatsApp_Image_2024-07-12_at_12.23.06_(1).jpeg>)
+![WhatsApp Image 2024-07-12 at 12.23.06 (1).jpeg](<July-12/WhatsApp_Image_2024-07-12_at_12.23.06_(1).jpeg>)
 
-![WhatsApp Image 2024-07-12 at 12.23.06.jpeg](WhatsApp_Image_2024-07-12_at_12.23.06.jpeg)
+![WhatsApp Image 2024-07-12 at 12.23.06.jpeg](July-12/WhatsApp_Image_2024-07-12_at_12.23.06.jpeg)
 
 ## Software
 
@@ -23,3 +23,11 @@ The last week we slowed down on the software updates a little, but we will be wo
 While we already have a automatic amp alignment command, it was not consistent so we decided to change it to add a Profiled PID with a low Proportional term so it helps the driver get to amp with more precision without the driver loosing control of the chassis.
 
 On the field oriented note alignment side, we are still working on the logic behind it, and waiting on the new camera we ordered to replace the PlayStation one that was too big and collided with our arm some times.
+
+## Impact Resitant Frame
+
+During worlds we suffered from a broken front frame a couple of times because of impacts, so we came up with the idea of removing a segment of the frame and replacing it with polycarb to see if it could handle the impacts without bending or breaking.
+
+Here is a video of the new frame, will have more updates on this probably next week.
+
+https://www.youtube.com/watch?v=YUlQef1-iv0

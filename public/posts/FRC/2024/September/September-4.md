@@ -8,7 +8,7 @@ A little bit of a late post but here it is. About a month ago we attended the Al
 
 **The Fix:** Designed a new release mechanism to keep them from releasing on impact.
 
-![New Lock](New%20Lock.jpeg)
+![New Lock](September-4/New%20Lock.jpeg)
 
 2. Our batteries were not lasting a whole match causing burnouts on the last 20-30 seconds and also got disconnected a couple of times.
 
@@ -26,4 +26,3 @@ A little bit of a late post but here it is. About a month ago we attended the Al
 ## What next?
 
 We are coming back to The Remix in Texas this year and some of our Mexican friends are coming along this year. We are excited to see all the amazing teams that are also coming back this year.
-

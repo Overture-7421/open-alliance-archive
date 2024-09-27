@@ -9,10 +9,9 @@
 ## January
 
 -   [January 14](January/January-14.md)
--   [January 19-1](January/January-19-1.md)
--   [January 19-2](January/January-19-2.md)
--   [January 21-1](January/January-21-1.md)
--   [January 21-2](January/January-21-2.md)
+-   [January 19](January/January-19.md)
+-   [January 21](January/January-21.md)
+-   [January 22](January/January-22.md)
 -   [January 23](January/January-23.md)
 -   [January 26](January/January-26.md)
 -   [January 28](January/January-28.md)
@@ -50,18 +49,20 @@
 
 -   [May 15](May/May-15.md)
 
-## Off-Season Blog
+## June
 
--   [First Post Off-Season](Off-Season%20Blog/First%20Post-Offseason/First%20Post%20Off-Season.md)
+-   [June 21](June/June-21.md)
 
--   [July 5 Update](Off-Season%20Blog/July%205%20Update/July%205%20Update.md)
+## July
 
--   [July 12 Update](Off-Season%20Blog/July%2012%20Update/July%2012%20Update.md)
+-   [July 5](July/July-5.md)
+-   [July 12](July/July-12.md)
+-   [July 15](July/July-15.md)
 
--   [July 12-15](Off-Season%20Blog/July%2012-15/July%2012-15.md)
+## August
 
--   [August 9 Updates](Off-Season%20Blog%2072ae94f228de490a8007507c753208f4/August%209%20Updates%20ea572f39797547a298e202a265312031.md)
+-   [August 12](August/August-12.md)
 
--   [All-Star Alliance Invitational at Kettering University](Off-Season%20Blog%2072ae94f228de490a8007507c753208f4/All-Star%20Alliance%20Invitational%20at%20Kettering%20Univer%203ab258f994b34ea4a95cf49998227b74.md)
+## September
 
--   [The Remix](Off-Season%20Blog%2072ae94f228de490a8007507c753208f4/The%20Remix%20106b5b4a2e538067accdfed8f7c42dab.md)
+-   [September 4](September/September-4.md)

@@ -1,13 +1,5 @@
 # July 12-15
 
-## Impact Resitant Frame
-
-During worlds we suffered from a broken front frame a couple of times because of impacts, so we came up with the idea of removing a segment of the frame and replacing it with polycarb to see if it could handle the impacts without bending or breaking.
-
-Here is a video of the new frame, will have more updates on this probably next week.
-
-https://www.youtube.com/watch?v=YUlQef1-iv0
-
 ## Impact resistant frame
 
 Last Friday we tested a little of the new frame we have been working on. The intake plates were not completely secured and the rollers were not attached so the test still not really showed us a lot. Hopefully during the week we will be able to finish building the robot so maybe by next week we could do a full robot test to check if it really works.

@@ -32,7 +32,6 @@ All the robot upgrades have been installed. The last couple of weeks we have tes
 
 Also we were able to try out our new upgrades and we found out that most of the upgrades are working great for the exception of the intake. We found out that while the only two rollers it had worked well, the note could not go up to the storage and would end up stuck inside the intake. We ended up adding two extra dead axle rollers to drive up the note so it got into the storage. It ended up working a lot better than we expected.
 
-![Free Rollers](Free%20Rollers.jpeg)
+![Free Rollers](August-12/Free%20Rollers.jpeg)
 
 **Kettering All-Star Offseason recap coming later this week**
-
