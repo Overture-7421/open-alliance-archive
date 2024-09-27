@@ -4,19 +4,19 @@
 
 Over the weekend the mechanics team worked on finishing the competition robot CAD. We also started cutting some aluminum plates for our competition robot with the assistance of CNC machines from our friends at 6017 and [6647](https://www.chiefdelphi.com/t/frc-6647-voltec-robotics-2024-build-thread-open-alliance/447300). We are hoping to start construction of our bot this Monday to have it ready for week 1.
 
-![6017CNC (2).jpeg](<6017CNC_(2).jpeg>)
+![6017CNC (2).jpeg](<January-28/6017CNC_(2).jpeg>)
 
-![6017CNC (1).jpeg](<6017CNC_(1).jpeg>)
+![6017CNC (1).jpeg](<January-28/6017CNC_(1).jpeg>)
 
-![6647CNC (2).jpeg](<6647CNC_(2).jpeg>)
+![6647CNC (2).jpeg](<January-28/6647CNC_(2).jpeg>)
 
-![6647CNC (1).jpeg](<6647CNC_(1).jpeg>)
+![6647CNC (1).jpeg](<January-28/6647CNC_(1).jpeg>)
 
 Our new robot cart and driver station are also done and ready for competition.
 
-![OverMaquina2.jpeg](OverMaquina2.jpeg)
+![OverMaquina2.jpeg](January-28/OverMaquina2.jpeg)
 
-![OverMaquina1.jpeg](OverMaquina1.jpeg)
+![OverMaquina1.jpeg](January-28/OverMaquina1.jpeg)
 
 ## Climbing Simulation (Yes, again)
 

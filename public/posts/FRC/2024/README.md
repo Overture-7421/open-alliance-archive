@@ -14,16 +14,12 @@
 -   [January 21-1](January/January-21-1.md)
 -   [January 21-2](January/January-21-2.md)
 -   [January 23](January/January-23.md)
-
-## Week 3
-
--   [Tuesday](Week%203/Tuesday.md)
--   [Friday Mini Update](Week%203/Friday%20Mini%20Update.md)
--   [Weekend Recap](Week%203/Weekend%20Recap/Weekend%20Recap.md)
+-   [January 26](January/January-26.md)
+-   [January 28](January/January-28.md)
+-   [January 30](January/January-30.md)
 
 ## Week 4
 
--   [Tuesday](Week%204/Tuesday/Tuesday.md)
 -   [Thursday](Week%204/Thursday/Thursday.md)
 -   [Friday](Week%204/Friday/Friday.md)
 
