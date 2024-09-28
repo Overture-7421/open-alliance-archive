@@ -9,84 +9,60 @@
 ## January
 
 -   [January 14](January/January-14.md)
--   [January 19-1](January/January-19-1.md)
--   [January 19-2](January/January-19-2.md)
--   [January 21-1](January/January-21-1.md)
--   [January 21-2](January/January-21-2.md)
+-   [January 19](January/January-19.md)
+-   [January 21](January/January-21.md)
+-   [January 22](January/January-22.md)
 -   [January 23](January/January-23.md)
+-   [January 26](January/January-26.md)
+-   [January 28](January/January-28.md)
+-   [January 30](January/January-30.md)
 
-## Week 3
+## February
 
--   [Tuesday](Week%203/Tuesday.md)
--   [Friday Mini Update](Week%203/Friday%20Mini%20Update.md)
--   [Weekend Recap](Week%203/Weekend%20Recap/Weekend%20Recap.md)
+-   [February 1](February/February-1.md)
+-   [February 2](February/February-2.md)
+-   [February 5](February/February-5.md)
+-   [February 7](February/February-7.md)
+-   [February 9](February/February-9.md)
+-   [February 10](February/February-10.md)
+-   [February 13](February/February-13.md)
+-   [February 15](February/February-14.md)
+-   [February 17](February/February-17.md)
+-   [February 19](February/February-19.md)
+-   [February 25](February/February-25.md)
+-   [February 27](February/February-27.md)
 
-## Week 4
+## March
 
--   [Tuesday](Week%204/Tuesday/Tuesday.md)
--   [Thursday](Week%204/Thursday/Thursday.md)
--   [Friday](Week%204/Friday/Friday.md)
+-   [March 4](March/March-4.md)
+-   [March 18](March/March-18.md)
+-   [March 22](March/March-22.md)
+-   [March 25](March/March-25.md)
+-   [March 28](March/March-28.md)
 
-## Week 5
+## April
 
--   [Monday](Week%205/Monday/Monday.md)
--   [Wednesday Small Update](Week%205/Wednesday/Wednesday%20Small%20Update.md)
--   [Friday](Week%205/Friday/Friday.md)
--   [Saturday](Week%205/Saturday.md)
+-   [April 2](April/April-2.md)
+-   [April 15](April/April-15.md)
 
-## Week 6
+## May
 
--   [Tuesday](Week%206/Tuesday.md)
--   [Thursday](Week%206/Thursday.md)
--   [Saturday](Week%206/Saturday/Saturday.md)
+-   [May 15](May/May-15.md)
 
-## Week 7
+## June
 
--   [Monday Update](Week%207/Monday/Monday.md)
--   [Sunday Update](Week%207/Sunday.md)
+-   [June 21](June/June-21.md)
 
-## Competition Week 1
+## July
 
--   [6 Note Auto](Competition%20Week%201/6%20Note%20Auto.md)
--   [Regional De Monrerrey](Competition%20Week%201/Regional%20De%20Monterrey/Regional%20de%20Monterrey.md)
+-   [July 5](July/July-5.md)
+-   [July 12](July/July-12.md)
+-   [July 15](July/July-15.md)
 
-## Competition Week 3
+## August
 
--   [Heartland Regional](Competition%20Week%203/Heartland%20Regional.md)
+-   [August 12](August/August-12.md)
 
-## Competition Week 4
+## September
 
--   [Friday Update](Competition%20Week%204/Friday.md)
-
-## Competition Week 5
-
--   [Monday](Competition%20Week%205/Monday/Monday.md)
--   [Thursday](Competition%20Week%205/Thursday/Thursday.md)
-
-## Competition Week 6
-
--   [Tuesday](Competition%20Week%206/Tuesday.md)
-
-## Pre-Champs
-
--   [Pre-Champs Update](Pre-Champs/Pre-Champs.md)
-
-## Championship Recap
-
--   [Championship Recap](Championship%20Recap/Championship%20Recap.md)
-
-## Off-Season Blog
-
--   [First Post Off-Season](Off-Season%20Blog/First%20Post-Offseason/First%20Post%20Off-Season.md)
-
--   [July 5 Update](Off-Season%20Blog/July%205%20Update/July%205%20Update.md)
-
--   [July 12 Update](Off-Season%20Blog/July%2012%20Update/July%2012%20Update.md)
-
--   [July 12-15](Off-Season%20Blog/July%2012-15/July%2012-15.md)
-
--   [August 9 Updates](Off-Season%20Blog%2072ae94f228de490a8007507c753208f4/August%209%20Updates%20ea572f39797547a298e202a265312031.md)
-
--   [All-Star Alliance Invitational at Kettering University](Off-Season%20Blog%2072ae94f228de490a8007507c753208f4/All-Star%20Alliance%20Invitational%20at%20Kettering%20Univer%203ab258f994b34ea4a95cf49998227b74.md)
-
--   [The Remix](Off-Season%20Blog%2072ae94f228de490a8007507c753208f4/The%20Remix%20106b5b4a2e538067accdfed8f7c42dab.md)
+-   [September 4](September/September-4.md)

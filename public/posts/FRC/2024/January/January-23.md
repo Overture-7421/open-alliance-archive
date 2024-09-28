@@ -18,16 +18,22 @@ Successful shots. The rollers in the shooter are attached to a Falcon motor each
 
 ## Software updates
 
-- This week we plan on using PathPlanner’s pathfinding capabilities and April Tag detection to help the drivers line up for the climbing.
-- Simulation is almost ready, software team is waiting for the final CAD to import it.
-- Started working on updating our April Tag detection [base code](https://github.com/Overture-7421/InsertRobotName2024/tree/main/src/OvertureLib/Subsystems/Vision/AprilTags). Last week we updated the code to use the blue alliance origin coordinates for our odometry correction, the reasoning for the change was that Pathplanners handles autos for both alliances using the origin coordinates from the blue side.
+-   This week we plan on using PathPlanner’s pathfinding capabilities and April Tag detection to help the drivers line up for the climbing.
+-   Simulation is almost ready, software team is waiting for the final CAD to import it.
+-   Started working on updating our April Tag detection [base code](https://github.com/Overture-7421/InsertRobotName2024/tree/main/src/OvertureLib/Subsystems/Vision/AprilTags). Last week we updated the code to use the blue alliance origin coordinates for our odometry correction, the reasoning for the change was that Pathplanners handles autos for both alliances using the origin coordinates from the blue side.
 
 ## 3D Printing
 
 Since the 2022 we have started to rely heavily on 3D printing parts, which became one of the most important part of our design process. Our current set up consists of 4 Creality printers, a Ender 3, Ender 3 v2 Neo, S1 and a recently acquired S1 Pro. Most of our printers are mentor owned with the exception of the S1 which was a donation.
 
+![3D Printers](January-23/3dPrinting.jpeg)
+
 At first we started only printing spacers and some 2 inch mecanum wheels, but since the 2023 season we started experimenting with printing gears on PLA, which were fine for uses where the printed part was not under a lot of stress or force.
 
+![PLA Gear](January-23/PLAGear.jpeg)
+
 In the offseason we started experimenting with PETG and actually printed our elevator stoppers, pulleys and the intake gearbox cover for our 1678 clone bot with it, none of the printed parts broke during our 2 offseason competitions.
+
+![PETG Print](January-23/PETG%20Prints.jpeg)
 
 With the new S1 Pro and a Creality Sonic Pad we are conducting testing on Polycarbonate filament pulleys and we are waiting on the arrival of some Nylon filament for testing 3D printed gears.
