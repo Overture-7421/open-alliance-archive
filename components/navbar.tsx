@@ -21,7 +21,7 @@ export const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
     return (
-        <NextUiNavbar onMenuOpenChange={setIsMenuOpen}>
+        <NextUiNavbar onMenuOpenChange={setIsMenuOpen} className="bg-secondary">
             <NavbarContent>
                 <NavbarMenuToggle
                     aria-label={isMenuOpen ? "Close menu" : "Open menu"}
