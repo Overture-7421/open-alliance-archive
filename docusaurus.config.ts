@@ -61,10 +61,10 @@ const config: Config = {
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Overture 7421",
-      logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
-      },
+    //   logo: {
+    //     alt: "Logo",
+    //     src: "img/logo.svg",
+    //   },
       items: [
         {
           to: "/frc-blog/category/Crescendo",
@@ -77,7 +77,7 @@ const config: Config = {
           position: "left",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/Overture-7421",
           label: "GitHub",
           position: "right",
         },
@@ -96,8 +96,13 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Overture 7421, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Overture 7421. Built with Docusaurus.`,
     },
+	colorMode: {
+	  defaultMode: "dark",
+	  disableSwitch: false,
+	  respectPrefersColorScheme: true,
+	},
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
