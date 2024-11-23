@@ -54,6 +54,15 @@ const config: Config = {
         sidebarPath: "./ftcBlogSidebar.ts",
       },
     ],
+	[
+	  "@docusaurus/plugin-content-docs",
+	  {
+		id: "Training",
+		routeBasePath: "training",
+		path: "./training",
+		sidebarPath: "./trainingSidebar.ts",
+	  },
+	],
   ],
 
   themeConfig: {
@@ -66,21 +75,36 @@ const config: Config = {
     //     src: "img/logo.svg",
     //   },
       items: [
-        {
-          to: "/frc-blog/category/Crescendo",
-          label: "FRC Blog",
-          position: "left",
-        },
-        {
-          to: "/ftc-blog/category/Into-The-Deep",
-          label: "FTC Blog",
-          position: "left",
-        },
-        {
-          href: "https://github.com/Overture-7421",
-          label: "GitHub",
-          position: "right",
-        },
+		{
+			type: "dropdown",
+			label: "Build Blogs",
+			position: "left",
+			items: [
+				{
+					label: "FRC Blogs",
+					to: "/frc-blog/category/Crescendo",
+				},
+				{
+					label: "FTC Blogs",
+					to: "/ftc-blog/category/Into-The-Deep",
+				},
+			],
+		},
+		{
+			type: "dropdown",
+			label: "Resources",
+			position: "left",
+			items: [
+				{
+					label: "Robots",
+					to: "/robots",
+				},
+				{
+					label: "Training",
+					to: "/training",
+				},
+			],
+		},
       ],
     },
     footer: {
