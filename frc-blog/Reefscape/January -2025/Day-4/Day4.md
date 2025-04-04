@@ -1,7 +1,7 @@
 ---
-title: "Day 4: Whats and Hows
+title: "Day 4: Whats and Hows"
 date: January 7, 2025
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # <span style="color:#6b35aa">What's</span>

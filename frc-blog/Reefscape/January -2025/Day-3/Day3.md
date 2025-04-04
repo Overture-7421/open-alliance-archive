@@ -1,7 +1,7 @@
 ---
-title: "Day 3: Field Progress
+title: "Day 3: Field Progress"
 date: January 6, 2025
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # <span style="color:#6b35aa">Field Visualization</span>

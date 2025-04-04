@@ -1,7 +1,7 @@
 ---
 title: "Day 18: Main CAD Progress"
 date: January 21, 2025
-sidebar_position: 7
+sidebar_position: 12
 ---
 
 # <span style="color:#6b35aa">Main CAD Progress</span>
@@ -32,7 +32,7 @@ The elevator is a 2 stage with carriage one inspired by High Tide 2023 robot and
 
 <div align="center">
 
-![Arm](7421-25-A-0300%20*%20Arm%20*.png)
+![Arm](7421-25-A-0300-Arm.png)
 
 </div>
 

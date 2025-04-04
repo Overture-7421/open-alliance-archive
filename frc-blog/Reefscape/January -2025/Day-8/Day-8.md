@@ -1,7 +1,7 @@
 ---
-title: "Day 8: Dual Purpose Intake Prototyping
+title: "Day 8: Dual Purpose Intake Prototyping"
 date: January 11, 2025
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # <span style="color:#6b35aa">Dual Purpose Intake Prototyping</span>

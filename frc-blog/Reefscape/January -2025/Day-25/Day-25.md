@@ -1,7 +1,7 @@
 ---
 title: "Day 25: Driver Practice and Wheels Testing"
-date: January 27 2025
-sidebar_position: 9
+date: January 28 2025
+sidebar_position: 15
 ---
 
 ## <b><span style="color:#6b35aa">3d Printed Swerve Wheels</span></b>

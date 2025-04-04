@@ -1,7 +1,7 @@
 ---
-title: "Day 14: Software
+title: "Day 14: Software"
 date: January 17, 2025
-sidebar_position: 7
+sidebar_position: 10
 ---
 
 # <span style="color:#6b35aa">Software and Control</span>

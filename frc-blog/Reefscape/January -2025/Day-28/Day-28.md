@@ -1,7 +1,7 @@
 ---
-title: "Day 25: Driver Practice and Wheels Testing"
-date: January 27 2025
-sidebar_position: 9
+title: "Day 28: Build Progress"
+date: January 31 2025
+sidebar_position: 16
 ---
 
 ## <b><span style="color:#6b35aa">Build Progress</span></b>

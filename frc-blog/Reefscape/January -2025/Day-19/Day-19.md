@@ -1,7 +1,7 @@
 ---
 title: "Day 19: Climber Redesign"
 date: January 22, 2025
-sidebar_position: 7
+sidebar_position: 13
 ---
 
 # <span style="color:#6b35aa">Climber Redesign</span>

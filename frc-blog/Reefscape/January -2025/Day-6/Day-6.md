@@ -1,7 +1,7 @@
 ---
-title: "Day 6: Prototypes
+title: "Day 6: Prototypes"
 date: January 9, 2025
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # <span style="color:#6b35aa">Prototyping</span>

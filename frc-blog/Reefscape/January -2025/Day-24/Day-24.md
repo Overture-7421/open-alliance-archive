@@ -1,7 +1,7 @@
 ---
 title: "Day 24: Intake Redesign"
 date: January 27 2025
-sidebar_position: 9
+sidebar_position: 14
 ---
 
 # <span style="color:#6b35aa">Intake Redesign</span>

@@ -1,7 +1,7 @@
 ---
-title: "Day 7: Getting Closer
+title: "Day 7: Getting Closer"
 date: January 10, 2025
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # <span style="color:#6b35aa">Almost Final Krayon CAD</span>
@@ -61,3 +61,5 @@ https://youtu.be/1xrKvsv0vDk
 https://youtu.be/-cyNoJz_0Ik
 
 https://youtu.be/76HsHZU2wGA
+
+</div>

@@ -1,7 +1,7 @@
 ---
-title: "Day 5: Krayon CAD and prototypes
+title: "Day 5: Krayon CAD and prototypes"
 date: January 8, 2025
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # <span style="color:#6b35aa">Preliminary Krayon CAD</span>

@@ -1,7 +1,7 @@
 ---
 title: "Day 1: Pre-Kickoff"
 date: January 4, 2025
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Reefscape Kickoff

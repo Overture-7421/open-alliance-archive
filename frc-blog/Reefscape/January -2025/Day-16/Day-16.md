@@ -1,7 +1,7 @@
 ---
-title: "Day 16: Software
+title: "Day 16: CAD Update"
 date: January 19, 2025
-sidebar_position: 7
+sidebar_position: 11
 ---
 
 # <span style="color:#6b35aa">CAD Update</span>

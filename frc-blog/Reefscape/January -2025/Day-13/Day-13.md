@@ -1,7 +1,7 @@
 ---
-title: "Day 13: CAD
+title: "Day 13: CAD"
 date: January 16, 2025
-sidebar_position: 7
+sidebar_position: 9
 ---
 
 # <span style="color:#6b35aa">CAD Links</span>
