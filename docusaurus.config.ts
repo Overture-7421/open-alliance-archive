@@ -54,15 +54,24 @@ const config: Config = {
         sidebarPath: "./ftcBlogSidebar.ts",
       },
     ],
-	[
-	  "@docusaurus/plugin-content-docs",
-	  {
-		id: "Training",
-		routeBasePath: "training",
-		path: "./training",
-		sidebarPath: "./trainingSidebar.ts",
-	  },
-	],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "Training",
+        routeBasePath: "training",
+        path: "./training",
+        sidebarPath: "./trainingSidebar.ts",
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "OvertureLib",
+        routeBasePath: "OvertureLib",
+        path: "./OvertureLib",
+        sidebarPath: "./overtureLibSidebar.ts",
+      },
+    ],
   ],
 
   themeConfig: {
@@ -70,41 +79,56 @@ const config: Config = {
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Overture 7421",
-    //   logo: {
-    //     alt: "Logo",
-    //     src: "img/logo.svg",
-    //   },
+      //   logo: {
+      //     alt: "Logo",
+      //     src: "img/logo.svg",
+      //   },
       items: [
-		{
-			type: "dropdown",
-			label: "Build Blogs",
-			position: "left",
-			items: [
-				{
-					label: "FRC Blogs",
-					to: "/frc-blog/category/Crescendo",
-				},
-				{
-					label: "FTC Blogs",
-					to: "/ftc-blog/category/Into-The-Deep",
-				},
-			],
-		},
-		{
-			type: "dropdown",
-			label: "Resources",
-			position: "left",
-			items: [
-				{
-					label: "Robots",
-					to: "/robots",
-				},
-				{
-					label: "Training",
-					to: "/training",
-				},
-			],
-		},
+        {
+          type: "dropdown",
+          label: "Build Blogs",
+          position: "left",
+          items: [
+            {
+              label: "FRC Blogs",
+              to: "/frc-blog/category/Crescendo",
+            },
+            {
+              label: "FTC Blogs",
+              to: "/ftc-blog/category/Into-The-Deep",
+            },
+          ],
+        },
+        {
+          type: "dropdown",
+          label: "Resources",
+          position: "left",
+          items: [
+            {
+              label: "Robots",
+              to: "/robots",
+            },
+            {
+              label: "Training",
+              to: "/training",
+            },
+          ],
+        },
+        {
+          type: "dropdown",
+          label: "OvertureLib",
+          position: "left",
+          items: [
+            {
+              label: "FRC Library",
+              to: "/OvertureLib/category/FRC",
+            },
+            {
+              label: "FTC Library",
+              to: "/OvertureLib/category/FTC",
+            },
+          ],
+        },
       ],
     },
     footer: {
@@ -122,11 +146,11 @@ const config: Config = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Overture 7421. Built with Docusaurus.`,
     },
-	colorMode: {
-	  defaultMode: "dark",
-	  disableSwitch: false,
-	  respectPrefersColorScheme: true,
-	},
+    colorMode: {
+      defaultMode: "dark",
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
