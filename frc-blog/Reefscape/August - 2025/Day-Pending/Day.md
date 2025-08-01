@@ -1,6 +1,6 @@
 ---
 title: "Day Pending: Championship Recap"
-date: July 1, 2025
+date: August 1, 2025
 sidebar_position: 2
 ---
 
