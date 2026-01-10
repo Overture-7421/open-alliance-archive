@@ -28,6 +28,8 @@ For starting the blog here are some important links and resources. (We will be u
 
 -   :computer: [Overture Github](https://github.com/Overture-7421)
 
+-   :computer: [OvertureLib](https://github.com/Overture-7421/overturelib)
+
 -   :computer: [Robot Code (Coming Soon)]()
 
 ### <b><span style="color:#6b35aa">Team Links</span></b>
