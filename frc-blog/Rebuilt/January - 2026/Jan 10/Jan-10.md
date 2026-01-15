@@ -26,11 +26,26 @@ For starting the blog here are some important links and resources. (We will be u
 
 -   :gear: [OnShape Krayon CAD (Coming Soon)]()
 
+-   <details>
+    <summary>Onshape Prototypes Links</summary>
+
+    1.  :gear: [Shooter](https://cad.onshape.com/documents/553d7ea76bcae55c71b8eb50)
+
+    2.  :gear: [Turret (Coming Soon)]()
+
+    3.  :gear: [Indexer](https://cad.onshape.com/documents/6033b83bd68be8e2641872e8)
+
+    4.  :gear: [Intake](https://cad.onshape.com/documents/9b6222860ca2b2b144e464d9)
+
+    </details>
+
+### <b><span style="color:#6b35aa">Software Links</span></b>
+
 -   :computer: [Overture Github](https://github.com/Overture-7421)
 
 -   :computer: [OvertureLib](https://github.com/Overture-7421/overturelib)
 
--   :computer: [Robot Code (Coming Soon)]()
+-   :computer: [Robot Code](https://github.com/Overture-7421/InsertRobotName-2026-7421)
 
 ### <b><span style="color:#6b35aa">Team Links</span></b>
 
