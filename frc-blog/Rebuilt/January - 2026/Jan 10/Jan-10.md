@@ -31,7 +31,7 @@ For starting the blog here are some important links and resources. (We will be u
 
     1.  :gear: [Shooter](https://cad.onshape.com/documents/553d7ea76bcae55c71b8eb50)
 
-    2.  :gear: [Turret (Coming Soon)]()
+    2.  :gear: [Turret](https://cad.onshape.com/documents/f3ad57bc66476ccd46340356/w/be73ed037f520e6223042317/e/3d18f024b246d0d3ffffc937)
 
     3.  :gear: [Indexer](https://cad.onshape.com/documents/6033b83bd68be8e2641872e8)
 
