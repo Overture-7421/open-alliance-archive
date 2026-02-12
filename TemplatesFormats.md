@@ -9,12 +9,12 @@ For the main title of the post, we use an H1 header:
 # Main post title
 ```
 
-## <span style="color:#ff6600"><strong>Sub Section Title</strong></span>
+## <span style="color:#6b35aa"><strong>Sub Section Title</strong></span>
 
-Subheaders (H2) are styled in orange for consistency with our team branding:
+Subheaders (H2) are styled in Purple for consistency with our team branding:
 
 ```
-## <span style="color:#ff6600"><strong>Sub Section Title</strong></span>
+## <span style="color:#6b35aa"><strong>Sub Section Title</strong></span>
 ```
 
  </details>
@@ -75,52 +75,25 @@ https://www.youtube.com/watch?v=8aKmVmH01bA
 Coloring links is a great way to make them stand out and match your team’s style. Here’s how we do it:
 
 **Regular Links**
-Example: [Team Rembrandts Instagram](https://www.instagram.com/teamrembrandts/?hl=en)
-
-Example: [Team Rembrandts Instagram](https://www.instagram.com/teamrembrandts?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+Example: [Team Overture Instagram](https://www.instagram.com/overture7421/?hl=en)
 
 To add a hyperlink in Markdown:
 
 ```
-To add a hyperlink in Markdown:
-
+[Team Overture Instagram](https://www.instagram.com/overture7421/?hl=en)
 ```
 
-[Team Rembrandts Instagram](https://www.instagram.com/teamrembrandts/?hl=en)
-[Team Rembrandts Instagram](https://www.instagram.com/teamrembrandts?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+**Purple-Styled Links**
+
+Example: <a href="https://www.instagram.com/overture7421/?hl=en"><span style="color:#6b35aa">Team Overture Instagram</span></a>
+
+To color links Purple, we use inline HTML to match the team’s branding:
 
 ```
-
-**Orange-Styled Links**
-```
-
-**Orange-Styled Links**
-Example: <a href="https://www.instagram.com/teamrembrandts/?hl=en"><span style="color:#ff6600">Team Rembrandts Instagram</span></a>
-
-Example: <a href="https://www.instagram.com/teamrembrandts?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==&quot;><span style="color:#ff6600">Team Rembrandts Instagram</span></a>
-
-To color links orange, we use inline HTML to match the team’s branding:
-
-```
-To color links orange, we use inline HTML to match the team’s branding:
-
-```
-
-<a href="https://www.instagram.com/teamrembrandts/?hl=en"><span style="color:#ff6600">Team Rembrandts Instagram</span></a>
-<a href="https://www.instagram.com/teamrembrandts?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==&quot;><span style="color:#ff6600">Team Rembrandts Instagram</span></a>
-
+<a href="https://www.instagram.com/overture7421/?hl=en"><span style="color:#6b35aa">Team Overture Instagram</span></a>
 ```
 
 </details>
-
-
-
-
-
-
-
-
-
 
 <details>
 <summary>Horizontal Lines</summary>
@@ -130,7 +103,6 @@ To color links orange, we use inline HTML to match the team’s branding:
 We use these lines (like the one above), to separate sections clearly. The markdown we use for this is pretty simple.
 
 ```
-
 <hr>
 ```
 
@@ -142,10 +114,10 @@ For lists, Markdown provides both unordered and ordered formats:
 
 **Unordered Lists**
 
--   Item 1
--   Item 2
-    -   Sub-item 2.1
-    -   Sub-item 2.2
+- Item 1
+- Item 2
+    - Sub-item 2.1
+    - Sub-item 2.2
 
 ```
 - Item 1
@@ -198,16 +170,16 @@ The “Written by” section adds a personal touch to each post. We use this for
 <hr>
 <div align="center">
 
-Written by:
+## <span style="color:#6b35aa">Written by:</span>
+
 @YourName - [Your Function]
-@Bjorn - Chief Editor & Lead 3DM
 
 </div>
 ```
 
 </details>
 
-## <span style="color:#ff6600"><strong>Post Structure</strong></span>
+## <span style="color:#6b35aa"><strong>Post Structure</strong></span>
 
 For our official OA posts, we use a standard format to give the writer an initial template to start from. The structure looks as follows:
 
@@ -219,7 +191,3 @@ For our official OA posts, we use a standard format to give the writer an initia
 6. Ending the post with a "Written by" section
 
 We also use some guidelines like not making posts too long and using a lot of images/videos to make posts more enjoyable to read.
-
-## <span style="color:#ff6600"><strong>TR Build Thread Buddy</strong></span>
-
-Of course, we are also making good use of AI. Some of our team members are struggling with writing and prefer to use ChatGPT. Normally, it can help them, but ChatGPT will probably not have enough context to make good quality posts. Therefore, I build us our own GPT called "TR Build Thread Buddy" which has context on our team and how we format our OA posts. If you want to try this out, go ahead and <a href="https://chatgpt.com/g/g-WOWm22Sm7-tr-build-thread-buddy"><span style="color:#ff6600">click here</span></a>.
