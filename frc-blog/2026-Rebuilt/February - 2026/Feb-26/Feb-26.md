@@ -41,15 +41,54 @@ Luis – Software Mentor
 
 <!-- Second Post of the Day -->
 
-After solving issues and finalizing the design of the robot, we finally decided on an L1 climber design for our week 2 competition. There were a couple of reasons for only going with L1:
+## <span style="color:#6b35aa">L1 Climber Decision for Week 2</span>
 
-- Not nmuch space left on the robot for a more complex climber.
-- We wanted to focus on perfecting the shooter and indexer first, since those are our main scoring mechanisms.
-- Not enough time to design, build, and test a more complex climber before week 2.
-- After seing the week 0 competition, we felt that an L1 climber would be sufficient to be competitive in week 2, and we can always add more functionality in later weeks.
+After resolving several issues and finalizing the overall robot design, we decided to move forward with an **L1 climber** for our Week 2 competition.
 
-<!-- Photo of the L1 climber design from CAD -->
+There were several reasons behind this decision:
 
-The idea for the design of the clmber has been on the teams mind for a while, we were inspired by the following video of a lego climber:
+- Not much space left on the robot for a more complex climber
+- We wanted to focus on perfecting the **shooter** and **indexer**, since those are our main scoring mechanisms
+- Not enough time to properly design, build, and test a more advanced climber before Week 2
+- After watching Week 0 competition, we felt that an L1 climber would be sufficient to remain competitive, and we can always expand functionality in later weeks
 
-<!-- Video goes here -->
+<div align="center">
+
+![Climber CAD](Climber1.png)
+
+![Climber CAD](Climber2.png)
+
+<em>Initial L1 climber concept from CAD.</em>
+
+</div> <hr>
+
+## <span style="color:#6b35aa">Design Inspiration</span>
+
+The idea for this climber has been in the team’s mind for a while. We were inspired by a LEGO-based climber concept shown in the following video:
+
+<div align="center">
+
+https://www.youtube.com/watch?v=NOnnpLTQK-U
+
+<em>Climber inspiration video.</em>
+
+</div>
+
+We also took notes from the **Spectrum / Photon** design approach when refining our concept.
+
+Our goal is to have the climber assembled and operational this weekend.
+
+<hr>
+
+## <span style="color:#6b35aa">What’s Next?</span>
+
+- Assemble and integrate the L1 climber
+- Begin functional climb testing
+
+<hr> <div align="center">
+
+## <span style="color:#6b35aa">Written by</span>
+
+Luis – Software Mentor
+
+</div>
